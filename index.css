@@ -237,7 +237,7 @@ body {
     font-weight: bold;
 }
 
-.topbar {
+.tonav {
     background-color: rgb(6, 0, 0);
     overflow: hidden;
     border-radius: 0vh;
@@ -247,7 +247,7 @@ body {
     -o-border-radius: 0vh;
 }
   
-  .topbar a {
+  .topnav a {
     float: left;
     color: #028911;
     text-align: center;
@@ -258,12 +258,12 @@ body {
   }
   
   
-  .topbar a:hover {
+  .topnav a:hover {
     background-color: rgb(148, 85, 3);
     color: black;
   }
   
-  .topbar a.active {
+  .topnav a.active {
     background-color: #045701;
     color: white;
   }
