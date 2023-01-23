@@ -237,7 +237,7 @@ body {
     font-weight: bold;
 }
 
-.tonav {
+.topnav {
     background-color: rgb(6, 0, 0);
     overflow: hidden;
     border-radius: 0vh;
@@ -266,4 +266,8 @@ body {
   .topnav a.active {
     background-color: #045701;
     color: white;
+  }
+
+  #Discord Server {
+    
   }
