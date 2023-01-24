@@ -241,3 +241,55 @@ body {
   #Discord Server {
     
   }
+
+  *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+
+ 
+  nav{
+    background: #00070c;
+    height: 80px;
+    width: 100%;
+  }
+  label.logo {
+    colour: white;
+   
+  }
+
+  nav ul {
+    float: left;
+    margin-left: 20px;
+  }
+
+  nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin:0 5px;
+  }
+
+  nav ul li a {
+    color: white;
+    font-size: 25px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+  a.active,a:hover{
+    background: #0e0373;
+    transition: .72s;
+    -webkit-transition: .72s;
+    -moz-transition: .72s;
+    -ms-transition: .72s;
+    -o-transition: .72s;
+}
+
