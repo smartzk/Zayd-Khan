@@ -237,36 +237,6 @@ body {
     font-weight: bold;
 }
 
-.topnav {
-    background-color: rgb(6, 0, 0);
-    overflow: hidden;
-    border-radius: 0vh;
-    -webkit-border-radius: 0vh;
-    -moz-border-radius: 0vh;
-    -ms-border-radius: 0vh;
-    -o-border-radius: 0vh;
-}
-  
-  .topnav a {
-    float: left;
-    color: #028911;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    transition: 0.5s;
-  }
-  
-  
-  .topnav a:hover {
-    background-color: rgb(148, 85, 3);
-    color: black;
-  }
-  
-  .topnav a.active {
-    background-color: #045701;
-    color: white;
-  }
 
   #Discord Server {
     
