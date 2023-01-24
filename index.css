@@ -1,0 +1,295 @@
+body {
+    background-color: #000c8f;
+    color: #1885f1;
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+#youtube{
+    background-color: #18f118;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 50%;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 5vh;
+    
+}
+
+
+#youtube:hover {
+    background-color: #04d1f6;
+    cursor: pointer;
+}
+
+span {
+    color: rgb(255, 0, 0);
+}
+
+
+#Github{
+    background-color: #f1a918;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 30%;
+    left: 50%;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#Github:hover {
+    background-color: #f90909;
+    cursor: pointer;
+}
+
+#Z-Counter{
+    background-color: #f11818;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 40%;
+    left: 50%;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#Tutorials{
+    background-color: #1885f1;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+#Variables{
+    background-color: rgb(78, 154, 146);
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 60%;
+    left: 50%;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+#Python{
+    background-color: #f11818;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 40%;
+    left: 50%;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#sss{
+    background-color: #f15d18;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 30%;
+    left: 50%;
+    background-color: rgb(78, 154, 146);
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#hihihi{
+    background-color: #49ddc7;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 50%;
+    padding: 20px 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#hjk{
+    background-color: #c7dd49;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 10%;
+    left: 50%;
+    padding: 10px 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#seventy{
+    background-color: #160070;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 70%;
+    left: 50%;
+    padding: 10px 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.btn:hover {
+    transform: scale(10.3);
+    -webkit-transform: scale(10.3);
+    -moz-transform: scale(10.3);
+    -ms-transform: scale(10.3);
+    -o-transform: scale(10.3);
+    width: 20px;
+}
+
+
+
+
+
+
+#guess{
+    background-color: #a1ef0fb3;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    padding: 10px 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+#sss{
+    background-color: #f15d18;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 30%;
+    left: 50%;
+    background-color: rgb(78, 154, 146);
+    padding: 10px 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#hihihi{
+    background-color: #49ddc7;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 20%;
+    left: 50%;
+    padding: 10px 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+#banana{
+    background-color: #007049;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 80%;
+    left: 50%;
+    padding: 10px 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#yay{
+    background-color: #700009;
+    border: none;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 90%;
+    left: 50%;
+    padding: 10px 25px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+  #Discord Server {
+    
+  }
+
+  *{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+
+ 
+  nav{
+    background: #00070c;
+    height: 80px;
+    width: 100%;
+  }
+  label.logo {
+    colour: white;
+   
+  }
+
+  nav ul {
+    float: left;
+    margin-left: 20px;
+  }
+
+  nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin:0 5px;
+  }
+
+  nav ul li a {
+    color: white;
+    font-size: 25px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+  a.active,a:hover{
+    background: #0e0373;
+    transition: .72s;
+    -webkit-transition: .72s;
+    -moz-transition: .72s;
+    -ms-transition: .72s;
+    -o-transition: .72s;
+}
+
